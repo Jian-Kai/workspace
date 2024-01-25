@@ -1,3 +1,6 @@
 [submodule "Web-Hid"]
 	path = Web-Hid
 	url = https://github.com/Jian-Kai/web-hid.git
+[submodule "DynamicTheme"]
+	path = DynamicTheme
+	url = https://github.com/Jian-Kai/DynamicTheme.git
