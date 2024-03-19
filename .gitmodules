@@ -4,3 +4,6 @@
 [submodule "DynamicTheme"]
 	path = DynamicTheme
 	url = https://github.com/Jian-Kai/DynamicTheme.git
+[submodule "Postman2OpenApi"]
+	path = Postman2OpenApi
+	url = https://github.com/Jian-Kai/Postman2Openapi.git
